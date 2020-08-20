@@ -13,3 +13,7 @@ body {
 	width: 100px;
 	margin-bottom: -50px;
 }
+
+.forecast-icon {
+	max-width: 50px;
+}
