@@ -7,7 +7,7 @@ A weather app that shows the current temperature, weather and a simple five-day 
 - Built with JavaScript
 - Weather data from the AccuWeather API
 
-![raincheck_gif](img/raincheck.gif)
+<img src="img/raincheck.gif" width="550" >
 
 ## :wrench: Installation
 
